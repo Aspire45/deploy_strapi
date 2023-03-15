@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_technologies_technologies",
+  "info": {
+    "displayName": "technologies",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "percent": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

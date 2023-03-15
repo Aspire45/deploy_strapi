@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "emploayesses",
+  "info": {
+    "singularName": "emploayess",
+    "pluralName": "emploayesses",
+    "displayName": "emploayess"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
